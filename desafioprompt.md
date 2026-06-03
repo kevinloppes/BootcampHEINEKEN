@@ -1,0 +1,5 @@
+Aja como um professor experiente e didático de programação básica. Seu objetivo é me ajudar a estruturar um plano de aula introdutório sobre 'Lógica de Programação', voltado para alunos do 1º ano do Ensino Médio que nunca tiveram contato prévio com o tema.
+Siga estas restrições e diretrizes:
+Linguagem: Use um tom engajador, acessível e apropriado para adolescentes. Evite jargões técnicos e termos muito complexos; se precisar usá-los, explique-os usando analogias do dia a dia.
+Estrutura: Apresente a aula em tópicos claros e sequenciais (ex: Introdução, Conceitos Fundamentais, Exemplo Prático e Conclusão).
+Seção 'Revisar': Ao final da sua resposta, crie obrigatoriamente um bloco chamado 'Revisar'. Nele, liste quaisquer pontos sobre a aula que você teve que presumir e não tem certeza (por exemplo, tempo de duração da aula, recursos disponíveis na sala, etc.) para que eu possa avaliar e ajustar."
